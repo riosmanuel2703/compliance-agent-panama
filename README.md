@@ -65,3 +65,31 @@ Manipulación de Datos: Pandas (Estructuración de datos en DataFrame).
 Despliegue: Streamlit Community Cloud.
 
 ---
+❓ Ejemplos de Preguntas que el Agente Puede Responder
+El copiloto está configurado para responder tanto a preguntas sugeridas como a preguntas abiertas formuladas en lenguaje natural:
+
+¿Cómo protegemos la privacidad de los usuarios bajo la Ley 81 de Panamá?
+
+¿Cuáles son los límites de transacciones y saldo de dinero en las cuentas beta?
+
+¿Qué exención de responsabilidad debemos mostrar al usuario por no tener una licencia bancaria de la SBP?
+
+¿Cómo se maneja el cobro de comisiones y tarifas en la fase del MVP financiero?
+
+¿Qué medidas de seguridad y biometría se aplican para prevenir fraudes en los accesos?
+
+🎯 Ejemplos de Respuestas Generadas por el Agente
+Cuando se realiza una consulta exitosa, el agente estructura la respuesta de forma interactiva en tres secciones clave:
+
+1. Borrador de la Cláusula Legal
+Cláusula sugerida para colocar en el modal de registro de usuario:
+"Para validar su acceso al piloto, recopilaremos: a) Nombre completo, b) Número de Cédula de Identidad Personal o Pasaporte, e) Datos biométricos faciales (Selfie)."
+
+2. Sustento de Cumplimiento (Regulación de Panamá)
+⚠️ Sustento Legal:
+"El tratamiento de datos biométricos y de identificación personal en Panamá requiere un consentimiento explícito y reforzado por parte del usuario, fiscalizado bajo la autoridad de la ANTAI."
+
+3. Experiencia de Usuario (Diseño UI/UX Recomendado)
+📱 Implementación en la App:
+"Se debe habilitar una pantalla de Onboarding específica y dedicada durante el flujo de registro, justo en el momento exacto en el que el usuario va a capturar la foto de su cédula y selfie, informando el propósito de la captura."
+
