@@ -2,7 +2,7 @@
 
 [![Streamlit App](https://static.streamlit.io/badge-svg.svg)](https://compliance-agent-panama.streamlit.app/) <!-- REEMPLAZA ESTO CON EL ENLACE REAL DE TU APP -->
 
-¿Qué xopá, frentes? Este es un copiloto inteligente y automatizado hecho especialmente para los desarrolladores y diseñadores de Fintechs aquí en el patio (Panamá). 
+¿Qué xopá, friend? Este es un copiloto inteligente y automatizado hecho especialmente para los desarrolladores y diseñadores de Fintechs aquí en el patio (Panamá). 
 
 Usando **Procesamiento de Lenguaje Natural (NLP)** del bueno, este agente te cruza en un dos por tres las dudas de tu código y tus pantallas con las leyes panameñas para que no te caiga la teja de la **Ley 81 de Protección de Datos**, las reglas de la **SBP** (Superintendencia de Bancos) o las multas de **ACODECO**.
 
