@@ -1,6 +1,6 @@
 # 🇵🇦 Copiloto Legal & Compliance IA - Panamá Fintech MVP
 
-[![Streamlit App](https://static.streamlit.io/badge-svg.svg)](https://compliance-agent-panama.streamlit.app/) <!-- REEMPLAZA ESTA URL CON TU LINK DE STREAMLIT SI DESEAS -->
+[![Streamlit App](https://static.streamlit.io/badge-svg.svg)](https://compliance-agent-panama-8ccdrmvzebff9ln6hgxrhm.streamlit.app/)
 
 Un copiloto inteligente y automatizado diseñado para equipos de desarrollo Fintech en la República de Panamá. Utilizando **Procesamiento de Lenguaje Natural (NLP)**, este agente cruza de manera instantánea las dudas de desarrollo y diseño de un MVP financiero con el marco regulatorio panameño (**Ley 81 de 2019 de Protección de Datos, regulaciones de la SBP y lineamientos de ACODECO**).
 
