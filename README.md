@@ -48,3 +48,20 @@ El agente utiliza un enfoque ágil y altamente eficiente de **Recuperación de I
  │  - Pestaña 2: Base legal panameña asociada (ANTAI, SBP, etc.)│
  │  - Pestaña 3: Recomendaciones funcionales de UI/UX.          │
  └──────────────────────────────────────────────────────────────┘
+
+---
+
+🛠️ Tecnologías y Herramientas Utilizadas
+Lenguaje de Programación: Python 3.9+
+
+Interfaz Gráfica: Streamlit (Para un Dashboard interactivo, responsivo y ágil).
+
+Procesamiento de Lenguaje Natural (NLP): Scikit-learn (Modelado y vectorización de texto con TF-IDF).
+
+Cálculo Matemático: Cosine Similarity (Para medir la cercanía semántica entre la duda del usuario y la base regulatoria).
+
+Manipulación de Datos: Pandas (Estructuración de datos en DataFrame).
+
+Despliegue: Streamlit Community Cloud.
+
+---
